@@ -9,7 +9,7 @@
 
 .footerBackground{
     background-color: rgb(55, 45, 117);
-    height: 30vh;
+    height: 23vh;
     color: white;
     font-family: 'Open Sans', sans-serif;
 
@@ -63,4 +63,17 @@ ul {
     text-align: center;
     border: 2px solid rgb(252, 98, 98);
     background-color: rgb(252, 98, 98);
+}
+
+.icons{
+    border: 1px solid white;
+    padding: 5px 5px;
+    margin: 5px 5px;
+    display: inline;
+}
+
+.copyright{
+    background-color: rgb(75,0,130);
+    color: gray;
+    text-align: center;
 }
