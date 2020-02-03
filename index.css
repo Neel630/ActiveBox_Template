@@ -1,0 +1,39 @@
+.backImage{
+    background-image: url('../images/banner.jpg');
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    height: 80vh;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  li {
+      padding: 10px;
+    display: inline;
+  }
+.center{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.textFormat{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.formatButton{
+    margin: 0px auto;
+    color: white;
+    padding: 14px 40px;
+    text-align: center;
+    border: 2px solid rgb(252, 98, 98);
+    background-color: rgb(252, 98, 98);
+}
