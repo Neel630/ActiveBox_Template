@@ -7,6 +7,14 @@
 
 }
 
+.footerBackground{
+    background-color: rgb(55, 45, 117);
+    height: 30vh;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
 .imagesFormat{
     width: 25%;
     float: left;
